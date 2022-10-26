@@ -20,7 +20,7 @@ Calculado criar com o as lives do Rodolfo Mori da DevClub.
 <br>
 
 <p align="center">
-  <img alt="project" src="./.github/project.png" width="100%" style="border-radius: 5px;">
+  <img alt="project" src="./.github/project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
