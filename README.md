@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora com Css Grid </h1>
+<h1 align="center"> Calculadora com css grid </h1>
 
 <p align="center">
 Calculado criar com o as lives do Rodolfo Mori da DevClub.
